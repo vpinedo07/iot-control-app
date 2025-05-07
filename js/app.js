@@ -1,4 +1,4 @@
-const API_URL = "http://18.206.163.32/api/devices";
+const API_URL = "http://54.157.232.27/api/devices";
 
 // Variable global
 let userIP = "";
